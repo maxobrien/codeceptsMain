@@ -1,0 +1,1 @@
+Making your code look nice might sound like a useless thing to do but it is actually one of the most important things you can do to make your code easier to understand. It will also help a lot with debugging which you will learn about later.

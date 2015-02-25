@@ -1,0 +1,1 @@
+You can find API’s online if you do enough searching, but once you do, you will probably have to read their documentation to find out which of the functions to call.  Now depending on how well used this API is, will depend on how good the documentation is, but prepare yourself for a lot of reading so that you know how to use their API.

@@ -1,0 +1,1 @@
+In the previous lesson we learnt about if statements. We talked about if, else and elseif statements. We mentioned the different parts of the if, the trigger and the action (what happens when the trigger is successful). In this lesson we are going to expand the concept of the trigger.

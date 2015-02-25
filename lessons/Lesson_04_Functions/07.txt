@@ -1,0 +1,1 @@
+As you have seen, functions are a vital part of programming. You will go on to learn how to write them in the language of your choice when you take a crash course later.

@@ -1,0 +1,1 @@
+Arrays and dictionaries make storing data a lot more compact and are really useful. You will learn how to make them in a crash course later.

@@ -1,0 +1,3 @@
+The next type of loop that you need to know is the **condition-controlled loop**. This might sound complicated but it basically just means it will either run or it won't. Like a Boolean, a true false statement, it will either be set to true or false. If it is true then the code will run repeatedly but if it is false then it will just skip over until the condition is true again. An example of a condition controlled loop is a stopwatch. When the stopwatch is on, time is constantly being added. However, when the stopwatch is stopped the condition turns false and it stops counting up.
+
+These loops are sometimes referred to as while loops because while the condition is true code runs.

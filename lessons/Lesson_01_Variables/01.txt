@@ -1,0 +1,3 @@
+Ok, so here we are, trying to learn the concepts of code.  So I guess we better get started then.
+
+One of the biggest concepts in coding are variables.

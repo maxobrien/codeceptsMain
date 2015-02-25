@@ -1,0 +1,1 @@
+So what is the right way to organise files? There isn’t one. Every single different program needs a slightly different file structure. This doesn’t mean there isn’t anything to learn in this lesson, all I am saying is that there are different structures for different programs.

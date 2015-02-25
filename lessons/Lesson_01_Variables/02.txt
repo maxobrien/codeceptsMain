@@ -1,0 +1,5 @@
+Variables are used all the time to store a piece of data, change and manipulate it in some way shape or form.  Imagine variables as being a cardboard box with a piece of paper inside.  You can read this bit of paper, write to it, move it, change it in anyway, even make a paper aeroplane, and then remove it.  All these things can be done to variables just like they can be done to a piece of paper… except the paper aeroplane bit!
+
+In Javascript variables are made like this.
+
+    var Variable1;

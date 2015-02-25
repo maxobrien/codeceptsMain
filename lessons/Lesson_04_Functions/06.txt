@@ -1,0 +1,3 @@
+Functions are used everywhere, from the Internet to playing a video game. When ever there is a responsive element on a website such a dropdown, there is a function behind that which runs it.
+
+Try thinking up another location where a function could be used, it won't be hard. Think about the **inputs** to the function and see what will be returned as an **output** when the function is called. Think of at least one way in which it could be made more general so that the function would work for more of the occasions when it is called.

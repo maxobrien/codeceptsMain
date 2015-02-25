@@ -1,0 +1,1 @@
+In our original statement the second keyword is **then**. This tells the computer what to run if the condition is true. If you are not thirsty however it will just skip over the code.

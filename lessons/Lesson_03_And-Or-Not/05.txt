@@ -1,0 +1,3 @@
+What about if you have multiple conditions but you only need atleast one to be true. How would you do it in English? You would use the word **or**. This allows you to make more complex triggers where there are multiple things that can happen but not all of them have to happen.
+
+    If you are thirsty or someone else wants a drink then you should make a glass of water

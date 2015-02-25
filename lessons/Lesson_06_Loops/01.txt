@@ -1,0 +1,3 @@
+In lesson three we learnt about functions, remember these? They allow you to run a piece of code over and over again when called. A loop is similar, a piece of code that can run over and over again. Loops however allow you to make more complex programs and to neaten up your code considerably. A loop is just a piece of code that loops over and over again.
+
+So why use a loop? A loop will save you from writing the same piece of code again and again and again and it will allow you to make your code a lot neater. Loops also can run a certain number of times which allows you to run specific pieces of code the required amount.

@@ -1,0 +1,12 @@
+# Do not remove this line or mod_rewrite rules and search engine friendly URLs will stop working
+RewriteBase /
+ErrorDocument 404 /404page.php
+Options +FollowSymlinks
+
+# Switching the rewrite engine on
+RewriteEngine on
+ 
+# Setting the lessons urls
+RewriteRule ^video/(.+) /video.php?id=$1 
+
+ 

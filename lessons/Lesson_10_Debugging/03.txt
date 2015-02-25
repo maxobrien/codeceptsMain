@@ -1,0 +1,1 @@
+Another key aspect of debugging are breakpoints.  These can be used to stop certain lines of code running or to pause your programme when it gets to a certain point.  Remember that breakpoints won’t be run when you publish your programme, they are only there when debugging.

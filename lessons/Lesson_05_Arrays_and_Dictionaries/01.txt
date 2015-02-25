@@ -1,0 +1,1 @@
+In lesson one we learnt about variables and how they can store a piece of information, but what if you want to store multiples pieces of information and access them from one variable. For this you would need an array. Arrays are a way of storing multiple pieces of information, like a list of students in a class. This is then all accessible through one variable.

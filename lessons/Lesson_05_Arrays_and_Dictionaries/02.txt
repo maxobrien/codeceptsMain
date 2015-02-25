@@ -1,0 +1,1 @@
+With the example we used above it saves a lot of time using an array as if the class list is printed out, you only have to print one variable, not 30 or as many as there are in the class.

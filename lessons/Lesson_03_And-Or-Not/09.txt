@@ -1,0 +1,1 @@
+Most languages will just use the single, English word but some will use the & symbol and other syntaxes but you will learn about that in the crash courses later.

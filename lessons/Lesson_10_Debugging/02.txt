@@ -1,0 +1,1 @@
+Debugging means to identify and remove errors from computer hardware or software.  There are many ways to debug.  For example in HTML, you can use the console to debug.  You can go through your code line by line, even run your code line at a time and to find out what and where the error is.  The console in this example is your best friend.  You need to use it to your advantage.

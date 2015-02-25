@@ -1,0 +1,1 @@
+The most basic type of loops are **infinite loops**. An infinite loop is just a piece of code that will run through over and over again the whole time the program is running. Infinite loops however may be bad as they can significantly slow down your program and prevent certain events from happening.

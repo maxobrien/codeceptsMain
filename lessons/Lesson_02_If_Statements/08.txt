@@ -1,0 +1,4 @@
+﻿The final trigger is **elseif**. This also does what it sounds like but is a little more complicated. You can write another if statement for the computer to check also with a separate piece of code to run. We can modify our original if statement to check if you are hungry as well
+    If you’re thirsty then you should get a glass of water
+    Elseif you’re hungry then you should get a snack
+    Else check again in 20 minutes

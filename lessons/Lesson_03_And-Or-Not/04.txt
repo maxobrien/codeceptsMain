@@ -1,0 +1,5 @@
+This allows us to have two triggers. We can also use the word and more times in English and this also applies to code.
+
+    If you are thirsty and there is a tap and there is a glass then you should get a glass of water
+
+You can use the word **and** as many times as you like in one statement, just like in English.

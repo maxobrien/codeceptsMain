@@ -1,0 +1,1 @@
+So now we have written our code, we need to make it look good.  Well we don't need to but it helps... Now you may be asking yourself, why do I need to make my code look good, I'm going to be the only person that sees it.

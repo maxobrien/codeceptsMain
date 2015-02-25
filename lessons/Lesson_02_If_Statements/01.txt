@@ -1,0 +1,3 @@
+In English if you want to make a decision then you have to ask yourself what the consequences are, good or bad. 
+    If you’re thirsty then you should get a glass of water
+This is the example we will use throughout the lesson. Just like this, in code when you want to trigger an event you need to use an if statement.

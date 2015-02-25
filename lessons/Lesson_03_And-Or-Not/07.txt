@@ -1,0 +1,3 @@
+It is really this simple to add more complex triggers. The last of our triggers is **not**. This does just as it sounds. Instead of checking for a condition to be true, it checks that it is not true, or false.
+
+    If you are thirsty but not near a tap then go and find a tap and get a glass of water

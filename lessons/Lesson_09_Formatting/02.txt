@@ -1,0 +1,1 @@
+Well actually you might not be the only person that sees it.  If you are working on a project with someone else then they might not understand the code that you have written. Even if no one else sees it, your code may even look confusing to you. It is a lot easier to navigate through your code if it looks logical and you understand which parts do what.

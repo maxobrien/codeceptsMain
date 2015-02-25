@@ -1,0 +1,3 @@
+So what if we wanted two triggers in one? If we spoke in english we can use the word **and** to specify the trigger.
+
+    If you are thirsty and there is a tap then you should get a glass of water

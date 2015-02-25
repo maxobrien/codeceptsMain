@@ -1,0 +1,1 @@
+Think of an if statement now, there are millions of possibilities. Don’t try and think like your writing code but just think in English, we use them all the time without knowing. You just need to include the words **if** and **then**. Coding doesn’t seem so hard now does it? It is just like English written slightly differently but don’t worry about how to write it yet.

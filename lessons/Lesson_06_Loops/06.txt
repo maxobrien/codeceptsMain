@@ -1,0 +1,1 @@
+In lesson 4 we learnt about arrays, loops have the ability to run through these. These are called **data-controlled loops**. This allows you to easily print to the screen a big list of data by simply looping through all of the variables and printing their values. This can be incredibly useful as it will vastly decrease the size of your code.

@@ -1,0 +1,15 @@
+##About Codecepts
+
+Codecepts was originally founded in 2014. There are two members; Max O’Brien, CEO and Cameron Robey, CEO. 
+
+We have been friends for many years and wanted to do a project together. We knew that we could improve on how we were being taught programming in school. We decided to teach the concepts of programming first and then apply these concepts to multiple programming languages. We are both very passionate about programming. We know that this is a great way to learn and so Codecepts was born.
+
+We want to teach people in a way that they can understand - concise, using non technical language to maintain interest. We have written the lessons in a very informal way so that it can be understood by everybody, regardless of their ability.
+
+###The Team:
+
+####**Cameron Robey**
+Hi, my name is Cameron. I started to make programs about 2 years ago and the learning process has been constant. I am really pleased that I have been able to learn to code and that I am sharing the experience with others through codecepts. I feel that learning to code should be taught in school with as much seriousness as learning a foreign language as I believe the future is technology.
+
+####**Max O’Brien**
+Hi, I’m Max. I started learning to code 2 years ago and I’m still learning today.  I am passionate about getting everyone to code as I feel that it will the the way forward in technology in the future this will be invaluable to the world. We are surrounded by technology, and I love the idea of tweaking functionality, inventing new ideas and making technology work for us.

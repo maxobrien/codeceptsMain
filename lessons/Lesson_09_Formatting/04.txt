@@ -1,0 +1,1 @@
+Another really helpful thing to do to make your code look beautiful is to indent your code. In order to make your code flow you should use tabs to make your code easier to read and a nice place to spend the hours of your life writing code. An example of why you would indent your code is to be able to see the beginning and end of a function as they would be inline with each other.

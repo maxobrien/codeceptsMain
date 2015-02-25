@@ -1,0 +1,1 @@
+#####Variables are the most fundamental part of programming so they are a great place to start. They can be used to create, store and edit data.

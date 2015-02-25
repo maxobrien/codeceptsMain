@@ -1,0 +1,3 @@
+﻿**If** and **then** aren’t the only trigger words, there are two more important ones. The first one is **else**. This simply does what it sounds like it should do. If the condition is false then instead of skipping over the whole statement, it will run whatever is under the else. We could modify the first statement to now be:
+    If you’re thirsty then you should get a glass of water
+    Else check again in 20 minutes

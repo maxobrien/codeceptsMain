@@ -1,0 +1,6 @@
+::-webkit-scrollbar{width: 9px;}
+
+::-webkit-scrollbar-button:vertical:increment {background-color:rgb(248, 209, 123);} ::-webkit-scrollbar-button:vertical:increment:hover {background-color:rgb(227, 179, 75);} 
+
+::-webkit-scrollbar-thumb{background-color:rgb(47, 83, 151); border-radius: 0;}
+::-webkit-scrollbar-thumb:hover{background-color:rgb(23, 63, 122);}
